@@ -28,7 +28,7 @@ for imagePath in sorted(list(paths.list_images(args["images"]))):
 	(brocolli, weed) = model.predict(image)[0]
 
 	# build the label
-	label = "Weed" if weed > brocolli else "Brocolli"
+	label = "Weed" if weed > brocolli else "Broccoli"
 	proba = weed if weed > brocolli else brocolli
 	label = "{}: {:.2f}%".format(label, proba * 100)
 
