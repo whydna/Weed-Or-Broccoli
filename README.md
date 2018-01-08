@@ -13,8 +13,8 @@ CNN that classifies images as containing either weed or broccoli. Uses Google Im
 
 ## Results
 
-![](https://i.imgur.com/Zq3SIV1.png =250x)
-![](https://i.imgur.com/NWMxaxe.png =250x)
-![](https://i.imgur.com/Y6FpYuf.png =250x)
-![](https://i.imgur.com/qWTzd6W.jpg =250x)
-![](https://i.imgur.com/YOoozny.png =250x)
+<img src="https://i.imgur.com/Zq3SIV1.png" width="250">
+<img src="https://i.imgur.com/NWMxaxe.png" width="250">
+<img src="https://i.imgur.com/Y6FpYuf.png" width="250">
+<img src="https://i.imgur.com/qWTzd6W.jpg" width="250">
+<img src="https://i.imgur.com/YOoozny.png" width="250">
