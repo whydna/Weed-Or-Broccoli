@@ -10,3 +10,11 @@ CNN that classifies images as containing either weed or broccoli. Uses Google Im
 ## Detect
 
 - Once you've generated the model, run `python test_model.py -m output/my_model.hdf5 -i ~/images/`
+
+## Results
+
+![](https://i.imgur.com/Zq3SIV1.png)
+![](https://i.imgur.com/NWMxaxe.png)
+![](https://i.imgur.com/Y6FpYuf.png)
+![](https://i.imgur.com/qWTzd6W.jpg)
+![](https://i.imgur.com/YOoozny.png)
