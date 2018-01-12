@@ -2,7 +2,7 @@
 
 CNN that classifies images as containing either weed or broccoli. Uses Google Images for training data and achieves about 80% - 90% accuracy.
 
-[![DRAM - Broccoli feat. Lil Yachty](https://imgur.com/A34mmFM)](http://www.youtube.com/watch?v=K44j-sb1SRY)
+[![DRAM - Broccoli feat. Lil Yachty](https://i.imgur.com/oNhPGtB.png)](http://www.youtube.com/watch?v=K44j-sb1SRY)
 
 ## Train It
 
